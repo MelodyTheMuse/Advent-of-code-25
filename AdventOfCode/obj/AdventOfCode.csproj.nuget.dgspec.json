@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keano\\RiderProjects\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {}
+    "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\AdventOfCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keano\\RiderProjects\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj": {
+    "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\AdventOfCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keano\\RiderProjects\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+        "projectUniqueName": "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\AdventOfCode.csproj",
         "projectName": "AdventOfCode",
-        "projectPath": "C:\\Users\\keano\\RiderProjects\\AdventOfCode\\AdventOfCode\\AdventOfCode.csproj",
+        "projectPath": "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\AdventOfCode.csproj",
         "packagesPath": "C:\\Users\\keano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keano\\RiderProjects\\AdventOfCode\\AdventOfCode\\obj\\",
+        "outputPath": "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keano\\AppData\\Roaming\\NuGet\\NuGet.Config",
