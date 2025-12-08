@@ -39,11 +39,19 @@ public class CircleTests
     }
     
     [Test]
+    public void testRunGParameter() 
+    {
+        List<string> input = File.ReadAllLines("/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/genelle_test.txt").ToList(); 
+        Circle circle = new Circle();
+        Assert.That(circle.RunFromParameter(input), Is.EqualTo(9));
+    }
+    
+    [Test]
     public void testRunRParameter() 
     {
         List<string> input = File.ReadAllLines("/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/test_r_input.txt").ToList(); 
         Circle circle = new Circle();
-        Assert.That(circle.RunFromParameter(input), Is.EqualTo(15));
+        Assert.That(circle.RunFromParameter(input), Is.EqualTo(16));
     }
     
     

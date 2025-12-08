@@ -5,7 +5,7 @@ namespace AdventOfCode;
 public class Circle
 {
     public static Circle _Instance;
-    private int CurrentNumber = 0;
+    private int CurrentNumber = 50;
     private int maxNumber = 99;
     private int minNumber = 0;
     private int clicks = 0;
@@ -46,7 +46,7 @@ public class Circle
         foreach (var item in input)
         {
             isNewNumber = true;
-            GetClick(item);
+            getClickers(item);
             steps++;
             Console.WriteLine(clicks + " clicks");
             Console.WriteLine(steps + " steps");
@@ -62,7 +62,7 @@ public class Circle
         foreach (var item in input)
         {
             isNewNumber = true;
-            GetClick(item);
+            getClickers(item);
             steps++;
             Console.WriteLine(clicks + " clicks");
             Console.WriteLine(steps + " steps");
@@ -82,6 +82,52 @@ public class Circle
             clicks++;
         }
     }
+
+    public void getClickers(string input)
+    {
+        //First I went to get the input from the list of strings
+        //Then I want to calculate currentNumber by using calcnewNumber
+        //Then I want to check while it is below 0
+        //While below 0 add 100 untill greater or equal to 0
+        //Then I want to check while it is above 100
+        //While above 100 remove 100 untill below or equal to 100
+        var output = splitStringInt(input);
+        CurrentNumber = calcnewNumber(dail: CurrentNumber, input: output, isLeft: direction(input));
+        if (CurrentNumber < minNumber)
+        {
+            do
+            {
+                CurrentNumber += 100;
+                clicks++;
+            } while (CurrentNumber <= minNumber);
+
+           
+        }
+
+        if (CurrentNumber > maxNumber)
+        {
+            do
+            {
+                CurrentNumber -= 100;
+                clicks++;
+            } while (CurrentNumber >= 100);
+
+           
+        }
+        
+    }
+
+    public int calcnewNumber(int dail, int input, bool isLeft)
+    {
+        //first I want  to check if we are left or not
+        //Then I  want to the dail minus the input
+        //Finally if we aren't left add input to the dail
+        if (isLeft)
+        {
+           return dail - input;
+        }
+        return dail + input;
+    }
     public int CalculateNewNumber(int currentNumber, int input, bool isLeft,bool isnewNumber = true)
     {
         int difference;
@@ -94,11 +140,11 @@ public class Circle
                clicks++;
                if (currentNumber == minNumber)
                {
-                   difference = currentNumber  - input +1;
+                   difference = (currentNumber +1) - input ;
                }
                else
                {
-                   difference = input - currentNumber +1;
+                   difference = input - (currentNumber +1);
                }
 
                var newNumber = checkNewNumber(difference, isLeft);
