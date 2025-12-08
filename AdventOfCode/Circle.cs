@@ -88,68 +88,62 @@ public class Circle
         if (direction)
         {
             if ((currentNumber - input) < minNumber)
-            {  
-                difference =  input - (currentNumber + 1);
-                var newNumber = CalculateNewNumber(maxNumber, difference, direction,false);
-                newNumber = checkNewNumber(newNumber, direction);
-               // clicks++;
-               if (newNumber != minNumber && currentNumber != minNumber)clicks++;
+            {
+               clicks++;
+               if (currentNumber == minNumber)
+               {
+                   difference = (currentNumber ) - input +1;
+               }
+               else
+               {
+                   difference = input - (currentNumber) +1;
+               }
+
+               var newNumber = checkNewNumber(difference, direction);
                 return newNumber;
             }
 
-            if (currentNumber - input != minNumber ) return currentNumber - input;
-            if (currentNumber == minNumber && !isNewNumber)
+            if (currentNumber - input != minNumber || currentNumber - input > minNumber && currentNumber - input < maxNumber) return currentNumber - input;
+            if (currentNumber == minNumber)
             {
-               // clicks++;
                 return minNumber;
             }
-           // clicks++;
-            return minNumber;
+            
         }
         if ((currentNumber + input) > maxNumber)
         {
-           
-            difference = input - (maxNumber - currentNumber) -1 ;
-            var newNumber = CalculateNewNumber(minNumber, difference, direction,false);
-            newNumber = checkNewNumber(newNumber, direction);
-            if (newNumber != minNumber && currentNumber != minNumber)clicks++;
+            clicks++;
+            difference = input- (maxNumber - currentNumber) -1   ;
+            var newNumber = checkNewNumber(difference, direction);
             return newNumber;
         }
 
-        if (currentNumber + input != maxNumber) return currentNumber + input;
-        if(currentNumber == maxNumber && !isNewNumber){ return maxNumber;}
-        //clicks++;
-        return maxNumber;
-       
+        if (currentNumber + input != maxNumber || currentNumber + input < maxNumber) return currentNumber + input;
+        if(currentNumber == maxNumber ){ return maxNumber;}
+      
+       return currentNumber;
     }
     
     private int splitStringInt(string input) => int.Parse(input.Substring(1));
     
     
-    private List<string> input = File.ReadAllLines("S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\input.txt").ToList();
+    private List<string> input = File.ReadAllLines("D:\\Repo\\My own Projects\\Advent-of-code-25\\input.txt").ToList();
 
     public int checkNewNumber(int newNumber, bool direction)
     { int difference;
         if (newNumber == minNumber )
         {
-           // clicks++; 
             return newNumber;
         }
-        if (newNumber != maxNumber && newNumber < maxNumber && newNumber > minNumber && newNumber != minNumber ) return newNumber;
         if (newNumber > maxNumber)
         {
-            difference = newNumber - maxNumber;
-            //clicks++;  
-            return CalculateNewNumber(minNumber, difference, direction,false);
+            return CalculateNewNumber(minNumber, newNumber, direction);
         }
-
         if (newNumber < minNumber)
         {
-            difference = minNumber - newNumber;
-            //clicks++; 
-            return CalculateNewNumber(maxNumber, difference, direction,false);
-        }
-        
+            newNumber *= -1;
+            return CalculateNewNumber(maxNumber, newNumber, direction);
+        } 
         return newNumber;
     }
 }

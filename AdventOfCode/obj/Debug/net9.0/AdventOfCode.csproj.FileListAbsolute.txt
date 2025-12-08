@@ -13,3 +13,18 @@ S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\
 S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\AdventOfCode.pdb
 S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\AdventOfCode.genruntimeconfig.cache
 S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\ref\AdventOfCode.dll
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\bin\Debug\net9.0\AdventOfCode.exe
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\bin\Debug\net9.0\AdventOfCode.deps.json
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\bin\Debug\net9.0\AdventOfCode.runtimeconfig.json
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\bin\Debug\net9.0\AdventOfCode.dll
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\bin\Debug\net9.0\AdventOfCode.pdb
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\AdventOfCode.AssemblyInfoInputs.cache
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\AdventOfCode.AssemblyInfo.cs
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\AdventOfCode.csproj.CoreCompileInputs.cache
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\AdventOfCode.sourcelink.json
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\AdventOfCode.dll
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\refint\AdventOfCode.dll
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\AdventOfCode.pdb
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\AdventOfCode.genruntimeconfig.cache
+D:\Repo\My own Projects\Advent-of-code-25\AdventOfCode\obj\Debug\net9.0\ref\AdventOfCode.dll
