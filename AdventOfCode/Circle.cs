@@ -105,7 +105,7 @@ public class Circle
                 CurrentNumber += 100;
                 
             } while (CurrentNumber < minNumber);
-            if (CurrentNumber == 0)
+            if (CurrentNumber == minNumber)
             {
                 clicks++;
             }
@@ -114,7 +114,7 @@ public class Circle
         {
             do
             {
-                clicks++;
+               if(old != 0){ clicks++;}
                 CurrentNumber -= 100;
                
             } while (CurrentNumber >= 100);
