@@ -5,7 +5,7 @@ namespace AdventOfCode;
 public class Circle
 {
     public static Circle _Instance;
-    private int CurrentNumber = 50;
+    private int CurrentNumber = 0;
     private int maxNumber = 99;
     private int minNumber = 0;
     private int clicks = 0;
@@ -85,32 +85,35 @@ public class Circle
     public int CalculateNewNumber(int currentNumber, int input, bool direction,bool isnewNumber = true)
     {
         int difference;
+        int calculation;
         if (direction)
         {
-            if ((currentNumber - input) < minNumber)
+            calculation = currentNumber - input;
+            if (calculation < minNumber)
             {
                clicks++;
                if (currentNumber == minNumber)
                {
-                   difference = (currentNumber ) - input +1;
+                   difference = currentNumber  - input +1;
                }
                else
                {
-                   difference = input - (currentNumber) +1;
+                   difference = input - currentNumber +1;
                }
 
                var newNumber = checkNewNumber(difference, direction);
                 return newNumber;
             }
 
-            if (currentNumber - input != minNumber || currentNumber - input > minNumber && currentNumber - input < maxNumber) return currentNumber - input;
+            if (calculation != minNumber || calculation > minNumber && calculation < maxNumber) return calculation;
             if (currentNumber == minNumber)
             {
                 return minNumber;
             }
             
         }
-        if ((currentNumber + input) > maxNumber)
+        calculation = currentNumber + input;
+        if (calculation > maxNumber)
         {
             clicks++;
             difference = input- (maxNumber - currentNumber) -1   ;
@@ -118,16 +121,16 @@ public class Circle
             return newNumber;
         }
 
-        if (currentNumber + input != maxNumber || currentNumber + input < maxNumber) return currentNumber + input;
+        if (calculation != maxNumber || calculation < maxNumber) return calculation;
         if(currentNumber == maxNumber ){ return maxNumber;}
       
-       return currentNumber;
+       return calculation;
     }
     
     private int splitStringInt(string input) => int.Parse(input.Substring(1));
     
     
-    private List<string> input = File.ReadAllLines("D:\\Repo\\My own Projects\\Advent-of-code-25\\input.txt").ToList();
+    private List<string> input = File.ReadAllLines("/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/input.txt").ToList();
 
     public int checkNewNumber(int newNumber, bool direction)
     { int difference;

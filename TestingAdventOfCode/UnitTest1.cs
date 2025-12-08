@@ -33,7 +33,7 @@ public class CircleTests
     [Test]
     public void testRunWParameter() 
     {
-        List<string> input = File.ReadAllLines("D:\\Repo\\My own Projects\\Advent-of-code-25\\test_input.txt").ToList(); 
+        List<string> input = File.ReadAllLines("/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/test_input.txt").ToList(); 
         Circle circle = new Circle();
         Assert.That(circle.RunFromParameter(input), Is.EqualTo(6));
     }
@@ -41,7 +41,7 @@ public class CircleTests
     [Test]
     public void testRunRParameter() 
     {
-        List<string> input = File.ReadAllLines("D:\\Repo\\My own Projects\\Advent-of-code-25\\test_r_input.txt").ToList(); 
+        List<string> input = File.ReadAllLines("/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/test_r_input.txt").ToList(); 
         Circle circle = new Circle();
         Assert.That(circle.RunFromParameter(input), Is.EqualTo(15));
     }

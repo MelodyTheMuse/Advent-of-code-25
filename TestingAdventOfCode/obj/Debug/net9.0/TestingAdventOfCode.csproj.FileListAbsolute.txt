@@ -1,214 +1,320 @@
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TestingAdventOfCode
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\CoverletSourceRootsMapping_TestingAdventOfCode
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\testhost.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\AdventOfCode.deps.json
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\AdventOfCode.runtimeconfig.json
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\AdventOfCode.exe
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\testhost.exe
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\NUnit3.TestAdapter.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\nunit.engine.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\nunit.engine.api.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\nunit.engine.core.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\testcentric.engine.metadata.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\TestingAdventOfCode.deps.json
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\TestingAdventOfCode.runtimeconfig.json
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\TestingAdventOfCode.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\TestingAdventOfCode.pdb
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Newtonsoft.Json.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\nunit.framework.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\nunit.framework.legacy.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\AdventOfCode.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\AdventOfCode.pdb
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.csproj.AssemblyReference.cache
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.AssemblyInfoInputs.cache
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.AssemblyInfo.cs
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.csproj.CoreCompileInputs.cache
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.sourcelink.json
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingA.DA4FB33B.Up2Date
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\refint\TestingAdventOfCode.dll
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.pdb
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.genruntimeconfig.cache
-S:\Repo\GODOT\contamination-v-2\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\ref\TestingAdventOfCode.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TestingAdventOfCode
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\CoverletSourceRootsMapping_TestingAdventOfCode
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\testhost.exe
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\testhost.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\NUnit3.TestAdapter.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\nunit.engine.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\nunit.engine.api.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\nunit.engine.core.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\testcentric.engine.metadata.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\AdventOfCode.deps.json
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\AdventOfCode.runtimeconfig.json
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\AdventOfCode.exe
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\TestingAdventOfCode.deps.json
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\TestingAdventOfCode.runtimeconfig.json
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\TestingAdventOfCode.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\TestingAdventOfCode.pdb
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\Newtonsoft.Json.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\nunit.framework.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\nunit.framework.legacy.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\AdventOfCode.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\bin\Debug\net9.0\AdventOfCode.pdb
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.csproj.AssemblyReference.cache
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.AssemblyInfoInputs.cache
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.AssemblyInfo.cs
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.csproj.CoreCompileInputs.cache
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.sourcelink.json
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingA.DA4FB33B.Up2Date
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\refint\TestingAdventOfCode.dll
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.pdb
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\TestingAdventOfCode.genruntimeconfig.cache
-D:\Repo\My own Projects\Advent-of-code-25\TestingAdventOfCode\obj\Debug\net9.0\ref\TestingAdventOfCode.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/.msCoverageSourceRootsMapping_TestingAdventOfCode
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/CoverletSourceRootsMapping_TestingAdventOfCode
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/testhost.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.deps.json
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.runtimeconfig.json
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.exe
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/testhost.exe
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.engine.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.engine.api.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.engine.core.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/testcentric.engine.metadata.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.deps.json
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.runtimeconfig.json
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.pdb
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Newtonsoft.Json.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.framework.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.framework.legacy.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.pdb
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.csproj.AssemblyReference.cache
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.AssemblyInfoInputs.cache
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.AssemblyInfo.cs
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.csproj.CoreCompileInputs.cache
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.sourcelink.json
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingA.DA4FB33B.Up2Date
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/refint/TestingAdventOfCode.dll
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.pdb
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.genruntimeconfig.cache
+S:/Repo/GODOT/contamination-v-2/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/ref/TestingAdventOfCode.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/.msCoverageSourceRootsMapping_TestingAdventOfCode
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/CoverletSourceRootsMapping_TestingAdventOfCode
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/testhost.exe
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/testhost.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.engine.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.engine.api.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.engine.core.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/testcentric.engine.metadata.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.deps.json
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.runtimeconfig.json
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.exe
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.deps.json
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.runtimeconfig.json
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.pdb
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Newtonsoft.Json.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.framework.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.framework.legacy.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.pdb
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.csproj.AssemblyReference.cache
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.AssemblyInfoInputs.cache
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.AssemblyInfo.cs
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.csproj.CoreCompileInputs.cache
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.sourcelink.json
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingA.DA4FB33B.Up2Date
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/refint/TestingAdventOfCode.dll
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.pdb
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.genruntimeconfig.cache
+D:/Repo/My own Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/ref/TestingAdventOfCode.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/.msCoverageSourceRootsMapping_TestingAdventOfCode
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/CoverletSourceRootsMapping_TestingAdventOfCode
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.engine.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.engine.api.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.engine.core.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/testcentric.engine.metadata.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.deps.json
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.runtimeconfig.json
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.deps.json
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.runtimeconfig.json
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/TestingAdventOfCode.pdb
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/testhost.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.framework.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/nunit.framework.legacy.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/bin/Debug/net9.0/AdventOfCode.pdb
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.csproj.AssemblyReference.cache
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.AssemblyInfoInputs.cache
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.AssemblyInfo.cs
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.csproj.CoreCompileInputs.cache
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.sourcelink.json
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingA.DA4FB33B.Up2Date
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/refint/TestingAdventOfCode.dll
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.pdb
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/TestingAdventOfCode.genruntimeconfig.cache
+/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/Debug/net9.0/ref/TestingAdventOfCode.dll
