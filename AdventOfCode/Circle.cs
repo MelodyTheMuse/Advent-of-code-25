@@ -84,37 +84,42 @@ public class Circle
     }
 
     public void getClickers(string input)
-    {
-        //First I went to get the input from the list of strings
+    {   //First I went to get the input from the list of strings
         //Then I want to calculate currentNumber by using calcnewNumber
         //Then I want to check while it is below 0
         //While below 0 add 100 untill greater or equal to 0
         //Then I want to check while it is above 100
         //While above 100 remove 100 untill below or equal to 100
         var output = splitStringInt(input);
+        var old = CurrentNumber;
         CurrentNumber = calcnewNumber(dail: CurrentNumber, input: output, isLeft: direction(input));
+     if (CurrentNumber == 0)
+     {
+         clicks++;
+         return;
+     }
         if (CurrentNumber < minNumber)
-        {
-            do
+        { do
             {
+               if(old != 0){ clicks++;}
                 CurrentNumber += 100;
+                
+            } while (CurrentNumber < minNumber);
+            if (CurrentNumber == 0)
+            {
                 clicks++;
-            } while (CurrentNumber <= minNumber);
-
-           
+            }
         }
-
         if (CurrentNumber > maxNumber)
         {
             do
             {
-                CurrentNumber -= 100;
                 clicks++;
+                CurrentNumber -= 100;
+               
             } while (CurrentNumber >= 100);
-
            
         }
-        
     }
 
     public int calcnewNumber(int dail, int input, bool isLeft)

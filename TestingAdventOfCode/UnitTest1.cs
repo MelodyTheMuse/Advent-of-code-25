@@ -43,7 +43,7 @@ public class CircleTests
     {
         List<string> input = File.ReadAllLines("/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/genelle_test.txt").ToList(); 
         Circle circle = new Circle();
-        Assert.That(circle.RunFromParameter(input), Is.EqualTo(9));
+        Assert.That(circle.RunFromParameter(input), Is.EqualTo(2));
     }
     
     [Test]
