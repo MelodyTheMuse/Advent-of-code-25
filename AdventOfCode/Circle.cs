@@ -76,17 +76,17 @@ public class Circle
     private void GetClick(string input)
     {
         var output = splitStringInt(input);
-        CurrentNumber = CalculateNewNumber(currentNumber: CurrentNumber, input: output, direction: direction(input));
+        CurrentNumber = CalculateNewNumber(currentNumber: CurrentNumber, input: output, isLeft: direction(input));
         if (CurrentNumber == 0)
         {
             clicks++;
         }
     }
-    public int CalculateNewNumber(int currentNumber, int input, bool direction,bool isnewNumber = true)
+    public int CalculateNewNumber(int currentNumber, int input, bool isLeft,bool isnewNumber = true)
     {
         int difference;
         int calculation;
-        if (direction)
+        if (isLeft)
         {
             calculation = currentNumber - input;
             if (calculation < minNumber)
@@ -101,7 +101,7 @@ public class Circle
                    difference = input - currentNumber +1;
                }
 
-               var newNumber = checkNewNumber(difference, direction);
+               var newNumber = checkNewNumber(difference, isLeft);
                 return newNumber;
             }
 
@@ -117,7 +117,7 @@ public class Circle
         {
             clicks++;
             difference = input- (maxNumber - currentNumber) -1   ;
-            var newNumber = checkNewNumber(difference, direction);
+            var newNumber = checkNewNumber(difference, isLeft);
             return newNumber;
         }
 
@@ -132,7 +132,7 @@ public class Circle
     
     private List<string> input = File.ReadAllLines("/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/input.txt").ToList();
 
-    public int checkNewNumber(int newNumber, bool direction)
+    public int checkNewNumber(int newNumber, bool isLeft)
     { int difference;
         if (newNumber == minNumber )
         {
@@ -140,12 +140,12 @@ public class Circle
         }
         if (newNumber > maxNumber)
         {
-            return CalculateNewNumber(minNumber, newNumber, direction);
+            return CalculateNewNumber(minNumber, newNumber, isLeft);
         }
         if (newNumber < minNumber)
         {
             newNumber *= -1;
-            return CalculateNewNumber(maxNumber, newNumber, direction);
+            return CalculateNewNumber(maxNumber, newNumber, isLeft);
         } 
         return newNumber;
     }
