@@ -821,32 +821,34 @@
     ]
   },
   "packageFolders": {
-    "/home/kiana/.nuget/packages/": {}
+    "C:\\Users\\keano\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/TestingAdventOfCode.csproj",
+      "projectUniqueName": "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\TestingAdventOfCode\\TestingAdventOfCode.csproj",
       "projectName": "TestingAdventOfCode",
-      "projectPath": "/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/TestingAdventOfCode.csproj",
-      "packagesPath": "/home/kiana/.nuget/packages/",
-      "outputPath": "/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/TestingAdventOfCode/obj/",
+      "projectPath": "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\TestingAdventOfCode\\TestingAdventOfCode.csproj",
+      "packagesPath": "C:\\Users\\keano\\.nuget\\packages\\",
+      "outputPath": "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\TestingAdventOfCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/kiana/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\keano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/AdventOfCode/AdventOfCode.csproj": {
-              "projectPath": "/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/AdventOfCode/AdventOfCode.csproj"
+            "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\AdventOfCode.csproj": {
+              "projectPath": "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\AdventOfCode.csproj"
             }
           }
         }
@@ -904,7 +906,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/kiana/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\keano\\.dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

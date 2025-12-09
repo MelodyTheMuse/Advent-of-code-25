@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/AdventOfCode/AdventOfCode.csproj": {}
+    "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\AdventOfCode.csproj": {}
   },
   "projects": {
-    "/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/AdventOfCode/AdventOfCode.csproj": {
+    "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\AdventOfCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/AdventOfCode/AdventOfCode.csproj",
+        "projectUniqueName": "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\AdventOfCode.csproj",
         "projectName": "AdventOfCode",
-        "projectPath": "/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/AdventOfCode/AdventOfCode.csproj",
-        "packagesPath": "/home/kiana/.nuget/packages/",
-        "outputPath": "/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/AdventOfCode/obj/",
+        "projectPath": "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\AdventOfCode.csproj",
+        "packagesPath": "C:\\Users\\keano\\.nuget\\packages\\",
+        "outputPath": "S:\\Repo\\GODOT\\contamination-v-2\\Advent-of-code-25\\AdventOfCode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/kiana/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\keano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/kiana/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\keano\\.dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

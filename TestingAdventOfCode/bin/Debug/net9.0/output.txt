@@ -1,0 +1,10 @@
+1 clicks 1 steps 82 dial L68 Input
+1 clicks 2 steps 52 dial L30 Input
+2 clicks 3 steps 0 dial R48 Input
+2 clicks 4 steps 95 dial L5 Input
+3 clicks 5 steps 55 dial R60 Input
+4 clicks 6 steps 0 dial L55 Input
+4 clicks 7 steps 99 dial L1 Input
+5 clicks 8 steps 0 dial L99 Input
+5 clicks 9 steps 14 dial R14 Input
+6 clicks 10 steps 32 dial L82 Input

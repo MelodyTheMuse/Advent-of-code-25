@@ -5,13 +5,12 @@ namespace AdventOfCode;
 public class Circle
 {
     public static Circle _Instance;
-    private int CurrentNumber = 50;
     private int maxNumber = 99;
     private int minNumber = 0;
-    private int clicks = 0;
     private int steps = 0;
     private bool isNewNumber = false;
     public static int clickers;
+    private string docPath = "output.txt";
 
 
     private bool direction(string input)
@@ -42,87 +41,103 @@ public class Circle
     }
 
     public int Run()
-    {
+    {   
+        List<string> lines = new List<string>();
+        StreamWriter sw = File.CreateText(docPath);
+        int CurrentNumber = 50;
+        int clicks = 0;
         foreach (var item in input)
         {
             isNewNumber = true;
-            getClickers(item);
+            clicks = getClickers(item, clicks,CurrentNumber,out CurrentNumber);
             steps++;
             Console.WriteLine(clicks + " clicks");
             Console.WriteLine(steps + " steps");
             Console.WriteLine(CurrentNumber + " current number");
+            string[] line = { $"{clicks} clicks", $"{steps} steps", $"{CurrentNumber} dial" };
+           
         }
-
+        using (sw)
+        {
+            foreach (var line in lines)
+            {
+                sw.WriteLine(line);
+            }
+           
+        }
+        
         return clicks;
 
     }
     
     public int RunFromParameter(List<string> input)
     {
+        
+        List<string> lines = new List<string>();
+        StreamWriter sw = File.CreateText(docPath);
+        int CurrentNumber = 50;
+        int clicks = 0;
         foreach (var item in input)
         {
             isNewNumber = true;
-            getClickers(item);
+            clicks = getClickers(item, clicks,CurrentNumber,out CurrentNumber);
             steps++;
             Console.WriteLine(clicks + " clicks");
             Console.WriteLine(steps + " steps");
             Console.WriteLine(CurrentNumber + " current number");
+            string line = $"{clicks} clicks {steps} steps {CurrentNumber} dial {item} Input";
+            lines.Add(line);
+          
         }
-
+        using (sw)
+        {
+            foreach (var line in lines)
+            {
+                sw.WriteLine(line);
+            }
+           
+        }
         return clicks;
 
     }
 
-    private void GetClick(string input)
-    {
-        var output = splitStringInt(input);
-        CurrentNumber = CalculateNewNumber(currentNumber: CurrentNumber, input: output, isLeft: direction(input));
-        if (CurrentNumber == 0)
-        {
-            clicks++;
-        }
-    }
+  //  private void GetClick(string input)
+ //   {
+   //     var output = splitStringInt(input);
+ //       CurrentNumber = CalculateNewNumber(currentNumber: CurrentNumber, input: output, isLeft: direction(input));
+  //      if (CurrentNumber == 0)
+  //      {
+   //         clicks++;
+   //     }
+   //     string sAppPath = Environment.CurrentDirectory;
+  //     Console.WriteLine(sAppPath);
+ //   }
 
-    public void getClickers(string input)
-    {   //First I went to get the input from the list of strings
-        //Then I want to calculate currentNumber by using calcnewNumber
-        //Then I want to check while it is below 0
-        //While below 0 add 100 untill greater or equal to 0
-        //Then I want to check while it is above 100
-        //While above 100 remove 100 untill below or equal to 100
-        var output = splitStringInt(input);
-        var old = CurrentNumber;
-        CurrentNumber = calcnewNumber(dail: CurrentNumber, input: output, isLeft: direction(input));
-     if (CurrentNumber == 0)
+ public int getClickers(string input,  int clicks,int CurrentNumber, out int  outputNumber)
+ {
+     var output = splitStringInt(input);
+     var old = CurrentNumber;
+     int x = 0;
+     CurrentNumber = calcnewNumber(dail: CurrentNumber, input: output, isLeft: direction(input));
+     x = CurrentNumber / 100;
+     x = Math.Abs(x);
+     
+     int y = CurrentNumber % 100;
+     if ( y < 0)
      {
-         clicks++;
-         return;
+         y += 100;
      }
-        if (CurrentNumber < minNumber)
-        { do
-            {
-               if(old != 0){ clicks++;}
-                CurrentNumber += 100;
-                
-            } while (CurrentNumber < minNumber);
-            if (CurrentNumber == minNumber)
-            {
-                clicks++;
-            }
-        }
-        if (CurrentNumber > maxNumber)
-        {
-            do
-            {
-               if(old != 0){ clicks++;}
-                CurrentNumber -= 100;
-               
-            } while (CurrentNumber >= 100);
-           
-        }
-    }
 
-    public int calcnewNumber(int dail, int input, bool isLeft)
+     if (old > 0 && CurrentNumber <= 0)
+     {
+         x++;
+     }
+     clicks += x;
+     outputNumber = y;
+     return clicks;
+ }
+
+ public int calcnewNumber(int dail, int input, bool isLeft)
     {
         //first I want  to check if we are left or not
         //Then I  want to the dail minus the input
@@ -135,6 +150,7 @@ public class Circle
     }
     public int CalculateNewNumber(int currentNumber, int input, bool isLeft,bool isnewNumber = true)
     {
+        
         int difference;
         int calculation;
         if (isLeft)
@@ -142,7 +158,7 @@ public class Circle
             calculation = currentNumber - input;
             if (calculation < minNumber)
             {
-               clicks++;
+             //  clicks++;
                if (currentNumber == minNumber)
                {
                    difference = (currentNumber +1) - input ;
@@ -166,7 +182,7 @@ public class Circle
         calculation = currentNumber + input;
         if (calculation > maxNumber)
         {
-            clicks++;
+            //clicks++;
             difference = input- (maxNumber - currentNumber) -1   ;
             var newNumber = checkNewNumber(difference, isLeft);
             return newNumber;
@@ -181,7 +197,7 @@ public class Circle
     private int splitStringInt(string input) => int.Parse(input.Substring(1));
     
     
-    private List<string> input = File.ReadAllLines("/home/kiana/Documents/Repo/Coding Projects/Advent-of-code-25/input.txt").ToList();
+    private List<string> input = File.ReadAllLines("input.txt").ToList();
 
     public int checkNewNumber(int newNumber, bool isLeft)
     { int difference;
